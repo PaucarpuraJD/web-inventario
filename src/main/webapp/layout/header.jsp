@@ -39,7 +39,7 @@
           </a>
           <ul class="dropdown-menu">
             <li>
-                <a class="dropdown-item" href="${pageContext.request.contextPath}/auxiliares">Auxiliar</a>
+                <a class="dropdown-item" href="${pageContext.request.contextPath}/pacientes">Pacientes</a>
             </li>
           </ul>
         </li>
